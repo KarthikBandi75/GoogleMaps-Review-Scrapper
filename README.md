@@ -47,5 +47,5 @@ A full-stack application that scrapes and displays **Google Maps reviews** for a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/google-maps-review-scraper.git
-cd google-maps-review-scraper
+git clone https://github.com/KarthikBandi75/GoogleMaps-Review-Scrapper
+cd GoogleMaps-Review-Scrapper
